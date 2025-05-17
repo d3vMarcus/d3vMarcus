@@ -6,7 +6,7 @@
 <h3>🧠 Sobre mim</h3>
 <ul>
   <li>💻 Entusiasta de Programação Competitiva – Gosto de resolver problemas e participar de desafios de lógica e algoritmos.</li>
-  <li>📊 Aficionado por Matemática e Física – Tenho grande interesse por áreas que envolvem raciocínio lógico e ciências exatas.</li>
+  <li>📊 Aficionado por Matemática e Física – Tenho grande interesse por áreas que envolvem raciocínio lógico, ciências exatas e tecnologia.</li>
   <li>🛠️ Atualmente aprendendo SQL – Estudando bancos de dados relacionais e práticas de modelagem e consulta.</li>
   <li>🎯 Sempre em busca de aprimorar minhas habilidades técnicas e participar de projetos desafiadores.</li>
 </ul>
